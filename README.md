@@ -6,4 +6,4 @@ This is a GUI app which is easy to use.
 
 You just need to enter the contact name of WhatsApp , write a msg and write how many numbers of msgs you want to send and click on send button.
 
-After pressing send button quickly scan the QR code from your mobile phone within 20 seconds otherwise you get error.
+After pressing send button quickly scan the QR code from your mobile phone within 20 seconds otherwise you get error. If you want to increase or decrease the waiting time then just change the seconds in this line of code (time.sleep(20)). 
